@@ -1,0 +1,8 @@
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+a.xcodeproj/xcuserdata/2011531010.xcuserdatad/xcschemes/xcschememanagement.plist
